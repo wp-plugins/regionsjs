@@ -4,7 +4,7 @@ Contributors: ramoonus
 Donate link: http://www.ramoonus.nl
 Tags: jquery, jquery mobile, mobile, javascript
 Requires at least: 3.2.0
-Tested up to: 3.0.0
+Tested up to: 3.9.1
 Stable tag: 1.0.0
 
 A polyfill for the Adobe's CSS3 proposal for Text regions (Tested + Works on Chrome, Safari, Firefox, IE 8+) 
